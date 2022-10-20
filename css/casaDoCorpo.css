@@ -1,0 +1,101 @@
+#icone a {
+  float: right;
+  margin-top: 10px;
+  margin-left: 30px;
+  border-radius: 100%;
+  background-color: white; }
+
+#menu {
+  background-color: #B0C4DE; }
+
+#objetivos {
+  padding-bottom: 200px; }
+  #objetivos h1 {
+    text-align: center; }
+
+#objetivos1 h2 {
+  text-align: center; }
+#objetivos1 p {
+  text-align: left;
+  margin-top: 10px; }
+#objetivos1 img {
+  width: 500px;
+  float: left;
+  margin: 10px; }
+
+#objetivos2 {
+  margin-top: 100px; }
+  #objetivos2 h2 {
+    text-align: center; }
+  #objetivos2 p {
+    text-align: left;
+    margin-top: 10px; }
+  #objetivos2 img {
+    width: 500px;
+    float: right;
+    margin: 10px; }
+
+#objetivos3 {
+  margin-top: 100px; }
+  #objetivos3 h2 {
+    text-align: center; }
+  #objetivos3 p {
+    text-align: left;
+    margin-top: 10px; }
+  #objetivos3 img {
+    width: 500px;
+    float: left;
+    margin: 10px; }
+
+#navegacao {
+  border-style: none;
+  padding: 10px;
+  width: 100%; }
+
+#lista {
+  margin-right: 5px; }
+
+.fotorama__wrap {
+  margin: 0 auto; }
+
+#voltar {
+  position: fixed;
+  margin-top: 40%;
+  margin-left: 5px; }
+
+#produtos {
+  background-color: white;
+  margin-top: 10px; }
+  #produtos h2 {
+    text-align: center; }
+
+#paralax {
+  background-image: url(../img/relaxamento.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100px;
+  text-align: center; }
+
+#footer {
+  background-color: #B0C4DE; }
+
+#quemsomos {
+  text-align: left; }
+
+#icones {
+  text-align: left;
+  margin-top: 20px; }
+  #icones h4 {
+    display: inline; }
+
+#botao {
+  float: right; }
+
+#icones1 {
+  margin-top: 20px; }
+  #icones1 h4 {
+    display: inline; }
+
+/*# sourceMappingURL=casaDoCorpo.css.map */
